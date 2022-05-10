@@ -1,0 +1,12 @@
+.contain{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.box{
+    width:700px;
+    height:550px;
+    top:100px;
+    border:#ccc solid 1px;
+    ont-size:12px;
+}
